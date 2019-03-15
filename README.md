@@ -7,8 +7,9 @@ Picture glitcher
 |command | `vanellope images/pic.jpg images/new_pic.jpg 4 30`
 
 ## How to install vanellope
-
+```sh
 python setup.py install
+```
 
 ## Usage
 ```
