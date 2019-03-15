@@ -1,10 +1,10 @@
 # vanellope
-Picture glitcher
+File glitcher
 
 | Before | After |
 |- | - |
 |![alt](./images/pic.jpg) | ![alt](./images/new_pic.jpg)|
-|command | `vanellope images/pic.jpg images/new_pic.jpg 4 30`
+|command | `vanellope examples/pic.jpg examples/new_pic.jpg 4 30`
 
 ## How to install vanellope
 ```sh
