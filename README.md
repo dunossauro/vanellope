@@ -22,3 +22,5 @@ Error: Missing argument "INPUT".
 ## TODO
 - [ ] Fix tox errors
 - [ ] Code more tests
+- [ ] Write click messages
+- [ ] Add more option to glitch
