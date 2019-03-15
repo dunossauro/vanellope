@@ -3,7 +3,7 @@ File glitcher
 
 | Before | After |
 |- | - |
-|![alt](./images/pic.jpg) | ![alt](./images/new_pic.jpg)|
+|![alt](./examples/pic.jpg) | ![alt](./examples/new_pic.jpg)|
 |command | `vanellope examples/pic.jpg examples/new_pic.jpg 4 30`
 
 ## How to install vanellope
