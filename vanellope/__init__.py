@@ -1,3 +1,4 @@
+"""Vanellope file Glitcher."""
 from .vanellope import chunks, rotate_blocks
 from .cli import cli
 
