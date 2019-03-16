@@ -12,5 +12,13 @@ def rotate_blocks(blocks: list, n: int):
     return blocks
 
 
+def remove_blocks(blocks: list, n: int):
+    """Choose blocks randomly and remove them."""
+    for x in range(n):
+        del blocks[choice(range(1, len(blocks)))]
+    return blocks
+
+
 def chunks(data: str, n: int):
+    """Split binary content file in blocks with the same size."""
     return [data[x: n+x] for x in range(0, len(data), n)]
