@@ -27,7 +27,6 @@ Options:
 ```
 
 ## TODO
-- [ ] Fix tox errors
 - [ ] Code more tests
-- [ ] Write click messages
+- [ ] Add click option to select glitch operation
 - [ ] Add more option to glitch
